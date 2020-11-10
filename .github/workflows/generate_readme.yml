@@ -30,7 +30,7 @@ jobs:
         id: pip-cache
         with:
           path: venv
-          key: pip-1-${{ hashFiles('**/requirements.txt') }}
+          key: pip-1-${{ hashFiles('**/req.txt') }}
           restore-keys: |
             pip-
       - name: Install dependencies
@@ -38,7 +38,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m venv venv
           source venv/bin/activate
-          pip install -r requirements.txt
+          pip install -r req.txt
         if: steps.pip-cache.outputs.cache-hit != 'true'
 
       - name: Generate new md
