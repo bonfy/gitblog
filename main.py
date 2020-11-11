@@ -63,7 +63,7 @@ def get_issues_from_label(repo, label):
 
 def add_issue_info(issue, md):
     time = format_time(issue.created_at)
-    md.write(f"- [{issue.title}]({issue.html_url})--{time}\n")
+    md.write(f"- {time} - [{issue.title}]({issue.html_url})\n")
 
 
 def add_md_todo(repo, md, me):
