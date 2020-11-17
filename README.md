@@ -12,3 +12,7 @@ My personal blog using issues and GitHub Actions
 - 2020-11-11 - [2020.11.11](https://github.com/bonfy/gitblog/issues/1)
 ## note
 - 2020-11-11 - [《Mastering Go》 读书笔记](https://github.com/bonfy/gitblog/issues/2)
+## python
+- 2020-11-17 - [初尝FastAPI](https://github.com/bonfy/gitblog/issues/5)
+## study
+- 2020-11-17 - [初尝FastAPI](https://github.com/bonfy/gitblog/issues/5)
