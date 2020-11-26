@@ -5,6 +5,8 @@ on:
     - cron: "0 0 * * *"
   issues:
     types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
   push:
     branches:
       - master
@@ -46,14 +48,14 @@ jobs:
       - name: Generate new md
         run: |
           source venv/bin/activate
-          python main.py ${{ secrets.GIT_TOKEN }} ${{ github.repository }}
+          python main.py ${{ secrets.GIT_TOKEN }} ${{ github.repository }}  --issue_numbe '${{ github.event.issue.number }}'
         
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
           github-token: ${{ secrets.GIT_TOKEN }}
           commit-message: "Refresh README"
-          files: README.md
+          files: README.md BACKUP/
           rebase: 'true'
           name: ${{ env.GITHUB_NAME }}
           email: ${{ env.GITHUB_EMAIL }}
