@@ -11,6 +11,7 @@ My personal blog using issues and GitHub Actions
 - 2020-11-13 - [MacOS Big Sur 升级](https://github.com/bonfy/gitblog/issues/3)
 - 2020-11-11 - [2020.11.11](https://github.com/bonfy/gitblog/issues/1)
 ## 2021
+- 2021-11-22 - [新款MBP入手](https://github.com/bonfy/gitblog/issues/10)
 - 2021-11-20 - [上海拍牌](https://github.com/bonfy/gitblog/issues/9)
 ## foodie
 - 2021-11-18 - [午餐记录](https://github.com/bonfy/gitblog/issues/8)
