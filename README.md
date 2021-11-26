@@ -3,7 +3,7 @@ My personal blog using issues and GitHub Actions
 ## 最近更新
 - 2021-11-22 - [新款MBP入手](https://github.com/bonfy/gitblog/issues/10)
 - 2021-11-20 - [上海拍牌](https://github.com/bonfy/gitblog/issues/9)
-- 2021-11-18 - [午餐记录](https://github.com/bonfy/gitblog/issues/8)
+- 2021-11-18 - [就餐记录](https://github.com/bonfy/gitblog/issues/8)
 - 2020-12-06 - [Go 中 interface 类似 Python DuckType 的用法](https://github.com/bonfy/gitblog/issues/7)
 - 2020-11-17 - [Asyncio in Python3.9](https://github.com/bonfy/gitblog/issues/6)
 ## 2020
@@ -14,7 +14,7 @@ My personal blog using issues and GitHub Actions
 - 2021-11-22 - [新款MBP入手](https://github.com/bonfy/gitblog/issues/10)
 - 2021-11-20 - [上海拍牌](https://github.com/bonfy/gitblog/issues/9)
 ## foodie
-- 2021-11-18 - [午餐记录](https://github.com/bonfy/gitblog/issues/8)
+- 2021-11-18 - [就餐记录](https://github.com/bonfy/gitblog/issues/8)
 ## Go
 - 2020-12-06 - [Go 中 interface 类似 Python DuckType 的用法](https://github.com/bonfy/gitblog/issues/7)
 ## note
