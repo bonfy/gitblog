@@ -49,13 +49,11 @@ jobs:
         run: |
           source venv/bin/activate
           python main.py ${{ secrets.GIT_TOKEN }} ${{ github.repository }}  --issue_numbe '${{ github.event.issue.number }}'
-        
+      
+      
       - name: Push README
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.GIT_TOKEN }}
-          commit-message: "Refresh README"
-          files: README.md BACKUP/
-          rebase: 'true'
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
+        run: |
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
+          git config --local user.name "${{ env.GITHUB_NAME }}"
+          git commit -a -m 'Refresh README' || echo "nothing to commit"
+          git push || echo "nothing to push"
