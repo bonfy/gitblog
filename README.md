@@ -1,7 +1,7 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions
 ## 最近更新
-- 2022-05-17 - [Games ](https://github.com/bonfy/gitblog/issues/13)
+- 2022-05-17 - [Games](https://github.com/bonfy/gitblog/issues/13)
 - 2022-02-22 - [美食还是应该自己做的](https://github.com/bonfy/gitblog/issues/12)
 - 2022-02-21 - [烧卖店涨价了](https://github.com/bonfy/gitblog/issues/11)
 - 2021-11-22 - [新款MBP入手](https://github.com/bonfy/gitblog/issues/10)
@@ -14,7 +14,7 @@ My personal blog using issues and GitHub Actions
 - 2021-11-22 - [新款MBP入手](https://github.com/bonfy/gitblog/issues/10)
 - 2021-11-20 - [上海拍牌](https://github.com/bonfy/gitblog/issues/9)
 ## 2022
-- 2022-05-17 - [Games ](https://github.com/bonfy/gitblog/issues/13)
+- 2022-05-17 - [Games](https://github.com/bonfy/gitblog/issues/13)
 - 2022-02-22 - [美食还是应该自己做的](https://github.com/bonfy/gitblog/issues/12)
 - 2022-02-21 - [烧卖店涨价了](https://github.com/bonfy/gitblog/issues/11)
 ## foodie
