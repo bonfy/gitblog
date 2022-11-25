@@ -1,11 +1,11 @@
 ## Gitblog
 My personal blog using issues and GitHub Actions
 ## 最近更新
+- 2022-11-25 - [旅游记录](https://github.com/bonfy/gitblog/issues/16)
 - 2022-11-22 - [一颗石头的旅行](https://github.com/bonfy/gitblog/issues/15)
 - 2022-11-01 - [Cartoons](https://github.com/bonfy/gitblog/issues/14)
 - 2022-05-17 - [Games](https://github.com/bonfy/gitblog/issues/13)
 - 2022-02-22 - [美食还是应该自己做的](https://github.com/bonfy/gitblog/issues/12)
-- 2022-02-21 - [烧卖店涨价了](https://github.com/bonfy/gitblog/issues/11)
 ## 2020
 - 2020-11-15 - [清理MacOS](https://github.com/bonfy/gitblog/issues/4)
 - 2020-11-13 - [MacOS Big Sur 升级](https://github.com/bonfy/gitblog/issues/3)
@@ -14,11 +14,16 @@ My personal blog using issues and GitHub Actions
 - 2021-11-22 - [新款MBP入手](https://github.com/bonfy/gitblog/issues/10)
 - 2021-11-20 - [上海拍牌](https://github.com/bonfy/gitblog/issues/9)
 ## 2022
+- 2022-11-25 - [旅游记录](https://github.com/bonfy/gitblog/issues/16)
 - 2022-11-22 - [一颗石头的旅行](https://github.com/bonfy/gitblog/issues/15)
 - 2022-11-01 - [Cartoons](https://github.com/bonfy/gitblog/issues/14)
 - 2022-05-17 - [Games](https://github.com/bonfy/gitblog/issues/13)
 - 2022-02-22 - [美食还是应该自己做的](https://github.com/bonfy/gitblog/issues/12)
+<details><summary>显示更多</summary>
+
 - 2022-02-21 - [烧卖店涨价了](https://github.com/bonfy/gitblog/issues/11)
+</details>
+
 ## foodie
 - 2021-11-18 - [就餐记录](https://github.com/bonfy/gitblog/issues/8)
 ## Go
